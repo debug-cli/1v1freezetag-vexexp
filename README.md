@@ -1,4 +1,9 @@
-# 1v1freezetag-vexexp
+<span align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&pause=600&center=true&multiline=true&width=550&height=100&lines=1v1%2FTeam+Freeze+Tag+for+VEX+EXP&color=808080)](https://github.com/debug-cli)
+
+</span>
+
 An advanced version of the prebuilt 1v1 Freeze Tag script for VEX EXP Robots/Basebots.
 
 Official "Team Freeze Tag" page here:
