@@ -6,6 +6,11 @@
 
 An advanced version of the prebuilt 1v1 Freeze Tag script for VEX EXP Robots/Basebots.
 
+# NOTICE:
+This repository is **not maintained**, as there is nothing else that could be added to this that enters my mind.
+C++ and Python versions of the block code have been made as of this day, 04/01/2026
+**Thank you for your understanding.**
+
 Official "Team Freeze Tag" page here:
 https://education.vex.com/stemlabs/exp/team-freeze-tag
 
@@ -20,7 +25,7 @@ Unfrozen state also shows MOVE! on the VEX EXP brain screen for a quick second, 
 ***WARNING: PLEASE READ***
 Compatible hardware is needed for this to work. This will only work to its full potential on a Basebot (instructions included) made out of official VEX EXP parts, and a front bumper and a 3 pin bumper switch added. (Check Official VEX project page for more info on what to add.)
 If used in Ms. Saxon's classroom, **Please make this code your own somehow.**
-You could submit a pull request/issue to contribute any additions you make to this code.
+~You could submit a pull request/issue to contribute any additions you make to this code.~
 
 ## How to Load 1v1freezetag.expblocks to VEX EXP Code
 
