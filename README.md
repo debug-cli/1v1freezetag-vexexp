@@ -6,13 +6,14 @@
 
 An advanced version of the prebuilt 1v1 Freeze Tag script for VEX EXP Robots/Basebots.
 
-# NOTICE:
+## NOTICE:
 This repository is **not maintained**, as there is nothing else that could be added to this that enters my mind.
 
 C++ and Python versions of the block code have been made as of this day, 04/01/2026
 
 **Thank you for your understanding.**
 
+## LINKS
 Official "Team Freeze Tag" page here:
 https://education.vex.com/stemlabs/exp/team-freeze-tag
 
